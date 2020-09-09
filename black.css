@@ -1,0 +1,19 @@
+td,th{
+    border:solid 2px black,
+}
+table{
+    border-collapse: collapse;
+}
+img{
+
+    border-radius: 30px;
+}
+td , tr{
+    height: auto;
+    width: 30%;
+}
+body{
+    text-align-last: center;
+    background-image:url(https://i.pinimg.com/736x/2f/4e/08/2f4e0899ee380e208c0af59bf17e119a.jpg) ;
+    background-size: cover;
+}

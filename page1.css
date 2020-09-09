@@ -1,0 +1,19 @@
+td,th{
+    border:solid 2px black,
+}
+table{
+    border-collapse: collapse;
+}
+img{
+    
+    border-radius: 30px;
+}
+td , tr{
+    height: auto;
+    width: 30%;
+}
+body{
+    text-align: center;
+
+    
+}
