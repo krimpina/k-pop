@@ -10,10 +10,10 @@ img{
 }
 td , tr{
     height: auto;
-    width: 30%;
+    width: 20%;
 }
 body{
     text-align: center;
-
+    background-color: rgb(255, 238, 0);
     
 }
